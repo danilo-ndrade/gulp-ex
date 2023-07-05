@@ -1,0 +1,1 @@
+multiply=(l,i)=>l*i;
